@@ -14,3 +14,6 @@ The output is a csv file with a upper triangle matrix format.
 ## Compute Integral Dose
 This extension computes the integral dose for each contour given a RTDose and a RTst. \
 The output is a csv file with each structure and its integral dose.
+
+## Log
+02/25/2020 Combined two extensions into one repository.
