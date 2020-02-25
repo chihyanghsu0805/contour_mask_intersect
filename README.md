@@ -7,10 +7,9 @@ https://www.mimsoftware.com/
 
 Users can develop extensions via MATLAB and java using MIM's objects.
 
-##
-Compute Volume of Contour Intersection
-This code is a MIM extension for computing intersect volumes of given RTst. \
-It computes the intersection for each pair of annotated structures. \
+## Compute Intersect
+This extension computes the volume of intersection for all contours in a RTst. \
 The output is a csv file with a upper triangle matrix format.
 
-## 
+## Compute Integral Dose
+This extension computes the integral dose 
